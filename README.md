@@ -22,7 +22,7 @@ This document contains the following details:
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 Load balancing ensures that the application will be highly efficient, in addition to restricting traffic to the network.
 - Load balancers protect against Distributed Denial of Service attacks (DDoS) by switching where the attacking traffic goes. Instead of the attacking traffic hitting the private server, it is instead redirected to a public cloud, thus preventing the attack. A Jumpbox is an easy to use, inexpensive function that allows the user to access other devices on the network from a single node.
-#Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the logs and system statistics and metrics.
+_Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the logs and system statistics and metrics.
 - Filebeat watches for any potential alterations made to data and when those alterations may have been made.
 - Metricbeat monitors your servers to record the metrics and statistics of the systems, then pushes them to an output location.
 The configuration details of each machine may be found below.
