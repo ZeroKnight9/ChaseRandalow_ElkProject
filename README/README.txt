@@ -1,4 +1,4 @@
-ChaseRandalow_ElkProject## Automated ELK Stack Deployment – Chase Randalow
+ChaseRandalow_ElkProject## Automated ELK Stack Deployment â€“ Chase Randalow
 
 The files in this repository were used to configure the network depicted below.
   - /ChaseRandalow_ElkProject/Diagrams/ElkStackDiagram
@@ -30,7 +30,7 @@ The configuration details of each machine may be found below.
 | Jump_Box_Provisioner | Gateway    | 10.0.0.4   | Linux            |
 | Web1                 | Web Server | 10.0.0.5   | Linux            |
 | Web2                 | Web Server | 10.0.0.6   | Linux            |
-| Web3                 | Web Server | 10.1.0.7   | Linux            |
+| Web3                 | Web Server | 10.0.0.7   | Linux            |
 | Elk                  | Elk Server | 10.1.0.4   | Linux            |
 
 
