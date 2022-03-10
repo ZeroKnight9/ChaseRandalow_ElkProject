@@ -1,0 +1,6 @@
+Matching Defaults entries for sysadmin on UbuntuDesktop:
+    env_reset, mail_badpass,
+    secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin
+
+User sysadmin may run the following commands on UbuntuDesktop:
+    (ALL : ALL) ALL

@@ -1,0 +1,2 @@
+Jack should not be in the sudo group nor have sudo access.
+The group hax0rs is very suspicious (due to it's name) and should be removed.

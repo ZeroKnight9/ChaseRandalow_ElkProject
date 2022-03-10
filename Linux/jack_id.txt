@@ -1,0 +1,1 @@
+uid=1004(jack) gid=1006(jack) groups=1006(jack),27(sudo)

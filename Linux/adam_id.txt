@@ -1,0 +1,1 @@
+uid=1007(adam) gid=1009(adam) groups=1009(adam),1005(hax0rs)
